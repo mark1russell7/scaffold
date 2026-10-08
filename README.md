@@ -1,3 +1,5 @@
+> **Moved.** This package now lives in [mark1russell7/client](https://github.com/mark1russell7/client/tree/main/packages/scaffold), with its full history. This repository is archived.
+
 # @mark1russell7/scaffold
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
